@@ -61,3 +61,7 @@ How to manage releases in a repository [link](https://help.github.com/en/github/
 
 The following link provides helpful information
 - [link](https://github.com/JPrendy/template-repository).
+
+https://blog.kotlin-academy.com/mocking-is-not-rocket-science-basics-ae55d0aadf2b
+
+https://www.youtube.com/watch?v=PoifD5FdJ7Y
